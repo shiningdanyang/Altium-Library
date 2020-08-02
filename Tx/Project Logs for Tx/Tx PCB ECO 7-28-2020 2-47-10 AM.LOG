@@ -1,0 +1,3 @@
+Change Component Comment : Designator=S1 Old Comment=SW-SPST New Comment=SW-PB
+Change Component Designator: OldDesignator=S1 NewDesignator=S?
+Added Room: Name=Tx

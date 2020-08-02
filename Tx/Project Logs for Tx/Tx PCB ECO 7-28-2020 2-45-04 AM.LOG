@@ -1,0 +1,97 @@
+Added Component: Designator=LCD(OLED 0.91")
+Add component. Clean all parameters for all variants
+Added Component: Designator=main(F103_BluePill)
+Add component. Clean all parameters for all variants
+Added Component: Designator=S1(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SPST-2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=LCD-VCC
+Added Pin To Net: NetName=5V Pin=main-5V
+Added Net: Name=5V
+Added Pin To Net: NetName=A Pin=main-B14
+Added Net: Name=A
+Added Pin To Net: NetName=C Pin=main-B12
+Added Net: Name=C
+Added Pin To Net: NetName=down Pin=main-B0
+Added Net: Name=down
+Added Pin To Net: NetName=D Pin=main-A8
+Added Net: Name=D
+Added Pin To Net: NetName=E Pin=main-A4
+Added Net: Name=E
+Added Pin To Net: NetName=GND Pin=LCD-GND
+Added Pin To Net: NetName=GND Pin=main-G_1
+Added Pin To Net: NetName=GND Pin=main-G_2
+Added Pin To Net: NetName=GND Pin=main-G_3
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Net: Name=GND
+Added Pin To Net: NetName=HC05_Rx Pin=main-A10
+Added Net: Name=HC05_Rx
+Added Pin To Net: NetName=HC05_Tx Pin=main-A9
+Added Net: Name=HC05_Tx
+Added Pin To Net: NetName=joyLeft_But Pin=main-A12
+Added Net: Name=joyLeft_But
+Added Pin To Net: NetName=joyLeft_Hor Pin=main-A1
+Added Net: Name=joyLeft_Hor
+Added Pin To Net: NetName=joyLeft_Ver Pin=main-A0
+Added Net: Name=joyLeft_Ver
+Added Pin To Net: NetName=joyRigt_But Pin=main-A15
+Added Net: Name=joyRigt_But
+Added Pin To Net: NetName=joyRigt_Hor Pin=main-A3
+Added Net: Name=joyRigt_Hor
+Added Pin To Net: NetName=joyRigt_Ver Pin=main-A2
+Added Net: Name=joyRigt_Ver
+Added Pin To Net: NetName=LCD_SCL Pin=LCD-SCL
+Added Pin To Net: NetName=LCD_SCL Pin=main-B6
+Added Net: Name=LCD_SCL
+Added Pin To Net: NetName=LCD_SDA Pin=LCD-SDA
+Added Pin To Net: NetName=LCD_SDA Pin=main-B7
+Added Net: Name=LCD_SDA
+Added Pin To Net: NetName=left Pin=main-B11
+Added Net: Name=left
+Added Pin To Net: NetName=NetLabel55 Pin=S1-1
+Added Net: Name=NetLabel55
+Added Pin To Net: NetName=NetLabel56 Pin=S2-1
+Added Net: Name=NetLabel56
+Added Pin To Net: NetName=NetLabel57 Pin=S3-1
+Added Net: Name=NetLabel57
+Added Pin To Net: NetName=Q Pin=main-A5
+Added Net: Name=Q
+Added Pin To Net: NetName=right Pin=main-B10
+Added Net: Name=right
+Added Pin To Net: NetName=select Pin=main-A6
+Added Net: Name=select
+Added Pin To Net: NetName=start Pin=main-A7
+Added Net: Name=start
+Added Pin To Net: NetName=up Pin=main-B1
+Added Net: Name=up
+Added Pin To Net: NetName=W Pin=main-A11
+Added Net: Name=W
+Added Pin To Net: NetName=X Pin=main-B15
+Added Net: Name=X
+Added Pin To Net: NetName=Z Pin=main-B13
+Added Net: Name=Z
+Added Class: Name=Tx
+Added Room: Name=Tx

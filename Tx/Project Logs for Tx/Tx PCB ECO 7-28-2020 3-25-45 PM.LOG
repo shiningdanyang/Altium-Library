@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=joyLeft NewDesignator=joyRigt
+Change Component Designator: OldDesignator=joyRigt NewDesignator=joyLeft
+Added Room: Name=Tx

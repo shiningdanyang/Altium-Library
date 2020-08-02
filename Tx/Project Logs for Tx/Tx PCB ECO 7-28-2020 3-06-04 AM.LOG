@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=right Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=S2-2
+Removed Pin From Net: NetName=up Pin=S3-1
+Removed Pin From Net: NetName=GND Pin=S3-2
+Removed Pin From Net: NetName=left Pin=S?-1
+Removed Pin From Net: NetName=GND Pin=S?-2
+Removed Member From Class: ClassName=Tx Member=S2
+Removed Member From Class: ClassName=Tx Member=S3
+Removed Member From Class: ClassName=Tx Member=S?
+Added Component: Designator=HC05(HC05)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=HC05-GND
+Added Pin To Net: NetName=HC05_Tx Pin=HC05-Rx
+Added Pin To Net: NetName=HC05_Rx Pin=HC05-Tx
+Added Pin To Net: NetName=+5 Pin=HC05-VCC
+Added Net: Name=+5
+Added Member To Class: ClassName=Tx Member=Component HC05

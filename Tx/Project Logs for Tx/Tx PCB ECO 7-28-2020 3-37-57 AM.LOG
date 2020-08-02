@@ -1,0 +1,14 @@
+Added Pin To Net: NetName=joyLeft_Ver Pin=main-A0
+Added Pin To Net: NetName=joyLeft_Hor Pin=main-A1
+Added Pin To Net: NetName=joyRigt_Ver Pin=main-A2
+Added Pin To Net: NetName=joyRigt_Hor Pin=main-A3
+Added Pin To Net: NetName=joyLeft_But Pin=main-A11
+Added Pin To Net: NetName=down Pin=main-B4
+Added Net: Name=down
+Added Pin To Net: NetName=left Pin=main-A12
+Added Net: Name=left
+Added Pin To Net: NetName=rigt Pin=main-A15
+Added Net: Name=rigt
+Added Pin To Net: NetName=up Pin=main-B3
+Added Net: Name=up
+Added Room: Name=Tx

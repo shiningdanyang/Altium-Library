@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=joyRigt_But Pin=main-A4
+Removed Pin From Net: NetName=joyLeft_But Pin=main-A11
+Added Pin To Net: NetName=joyLeft_But Pin=main-A4
+Added Pin To Net: NetName=joyRigt_But Pin=main-A11
+Added Room: Name=Tx

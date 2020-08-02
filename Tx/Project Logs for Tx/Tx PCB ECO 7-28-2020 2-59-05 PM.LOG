@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LCD_SCL Pin=main-B6
+Removed Pin From Net: NetName=LCD_SDA Pin=main-B7
+Added Pin To Net: NetName=LCD_SCL Pin=main-B10
+Added Pin To Net: NetName=LCD_SDA Pin=main-B11
+Added Room: Name=Tx
